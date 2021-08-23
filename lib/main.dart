@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter template',
       theme: MyTheme
           .ligthTheme, // Apply the theme referenced by the theme property on
       // MaterialApp
