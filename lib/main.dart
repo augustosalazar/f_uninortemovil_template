@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       themeMode:
           ThemeMode.system, // Apply the theme that matches the mode currently
       // in use on the device
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(title: 'Flutter Template'),
     );
   }
 }
